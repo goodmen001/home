@@ -46,7 +46,7 @@
 
 ### ⚙️ 手动部署
 
-- **安装** [node.js](https://nodejs.org/zh-cn/) **环境**
+- **安装** [node.js](https://nodejs.org/zh-cn/) **环1境**
 
   > node > 16.16.0  
   > npm > 8.15.0
